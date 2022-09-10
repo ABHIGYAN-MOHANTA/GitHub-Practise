@@ -28,4 +28,6 @@ git branch (to check all the existing branches, also asterisk * shows the curren
 git checkout <name of branch> (to switch branch to new branch)
 in this new branch make your changes 
 if you are satisfied with your changes, switch back to main branch and
-git merge <name of branch to be merged>  
+git merge <name of branch to be merged>
+
+now to work on someone else' repo, fork it and work on it and then make a pull request
