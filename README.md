@@ -16,6 +16,8 @@ git checkout to revert bacck
 
 
 git remote add origin <url>
+//if remote already exists git remote remove origin
+
 git push -u origin master
 enter personal access tolen
 
