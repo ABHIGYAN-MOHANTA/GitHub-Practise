@@ -1,4 +1,4 @@
-# Story2
+# Story2 /
 Learning Git and Github
 github practise
 
